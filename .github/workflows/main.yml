@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # 每天零点自动更新
+  schedule:
     - cron: "0 0 * * *" 
-  workflow_dispatch: # 允许手动点击运行
+  workflow_dispatch:
   push:
     branches:
     - main
@@ -14,8 +14,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          # 修改为你真实的 GitHub 用户名
-          github_user_name: YOUR_GITHUB_USERNAME
+          github_user_name: 1716775457damn
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
