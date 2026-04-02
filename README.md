@@ -1,29 +1,29 @@
 <div align="center">
-  <div style="display:flex; justify-content:space-between; align-items:flex-start; width: 100%; max-width: 800px; margin: 0 auto;">
+<div style="display:flex; justify-content:space-between; align-items:flex-start; width: 100%; max-width: 800px; margin: 0 auto;">
     
-    <div style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid #00F0FF; display: flex; justify-content: center; align-items: center; text-align: center; background: #1a1b26; overflow: hidden; margin-right: 20px; flex-shrink: 0;">
-      <img src="Xinwang%20Tao.jpg" alt="Portrait" style="width: 100%; height: 100%; object-fit: cover;" />
-    </div>
+<div style="width: 150px; height: 150px; border-radius: 50%; border: 3px solid #00F0FF; display: flex; justify-content: center; align-items: center; text-align: center; background: #1a1b26; overflow: hidden; margin-right: 20px; flex-shrink: 0;">
+<img src="Xinwang%20Tao.jpg" alt="Portrait" style="width: 100%; height: 100%; object-fit: cover;" />
+</div>
 
-    <div style="flex: 1; text-align: left;">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Yu+Hao+👋;Bridging+AI+Models+and+Hardware;UAV+%2F+Robotics+Engineer;Award-Winning+Innovator" alt="Typing SVG" style="max-width: 100%;" />
-      </a>
-      <p style="margin-top: 10px; font-size: 1.1em; color: #a9b1d6;">
-        Mechanical Design, Manufacturing & Automation @ CSUST
-      </p>
-      <p style="font-size: 0.9em; color: #a9b1d6; font-style: italic;">
-        Combining CV, LLMs, and esoteric concepts into tangible hardware realities.
-      </p>
-    </div>
-  </div>
+<div style="flex: 1; text-align: left;">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Yu+Hao+👋;Bridging+AI+Models+and+Hardware;UAV+%2F+Robotics+Engineer;Award-Winning+Innovator" alt="Typing SVG" style="max-width: 100%;" />
+</a>
+<p style="margin-top: 10px; font-size: 1.1em; color: #a9b1d6;">
+Mechanical Design, Manufacturing & Automation @ CSUST
+</p>
+<p style="font-size: 0.9em; color: #a9b1d6; font-style: italic;">
+Combining CV, LLMs, and esoteric concepts into tangible hardware realities.
+</p>
+</div>
+</div>
 
-  <p align="center" style="margin-top: 30px;">
-    <a href="https://seertick.com"><img src="https://img.shields.io/badge/Product_Site-seertick.com-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Seertick Website" /></a>
-    <a href="https://www.scilit.com/scholars/30921835"><img src="https://img.shields.io/badge/Google_Scholar-Academic_Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-    <a href="mailto:1716775457@qq.com"><img src="https://img.shields.io/badge/QQ_Mail-1716775457@qq.com-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ Email" /></a>
-    <a href="mailto:15116193888@163.com"><img src="https://img.shields.io/badge/163_Mail-15116193888@163.com-E6162D?style=for-the-badge&logo=netease&logoColor=white" alt="163 Email" /></a>
-  </p>
+<p align="center" style="margin-top: 30px;">
+<a href="https://seertick.com"><img src="https://img.shields.io/badge/Product_Site-seertick.com-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Seertick Website" /></a>
+<a href="https://www.scilit.com/scholars/30921835"><img src="https://img.shields.io/badge/Google_Scholar-Academic_Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+<a href="mailto:1716775457@qq.com"><img src="https://img.shields.io/badge/QQ_Mail-1716775457@qq.com-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ Email" /></a>
+<a href="mailto:15116193888@163.com"><img src="https://img.shields.io/badge/163_Mail-15116193888@163.com-E6162D?style=for-the-badge&logo=netease&logoColor=white" alt="163 Email" /></a>
+</p>
 </div>
 
 ---
