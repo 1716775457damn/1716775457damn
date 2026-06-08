@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="800" height="140">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#2dd4bf" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="140" fill="#0d1117" rx="8"/>
+  <text x="400" y="56" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="42" font-weight="700" fill="url(#nameGrad)" letter-spacing="1">
+    Xinwang Tao
+  </text>
+  <rect x="200" y="72" width="400" height="1.5" rx="1" fill="url(#lineGrad)"/>
+  <text x="400" y="100" text-anchor="middle" font-family="'Segoe UI', -apple-system, sans-serif" font-size="15" fill="#8b949e" letter-spacing="2">
+    AI/CV  ·  EMBEDDED SYSTEMS  ·  BIOMIMETIC ROBOTICS  ·  RUST AUTOMATION
+  </text>
+  <circle cx="220" cy="117" r="2" fill="#58a6ff" opacity="0.3"/>
+  <circle cx="400" cy="117" r="2" fill="#2dd4bf" opacity="0.3"/>
+  <circle cx="580" cy="117" r="2" fill="#c084fc" opacity="0.3"/>
+</svg>
